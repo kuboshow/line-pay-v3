@@ -1,6 +1,6 @@
 {
   "name": "line-pay-v3",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "use for linePay API v3",
   "keywords": [
     "linepay",
@@ -17,6 +17,7 @@
   },
   "author": "RenZhou",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
     "axios": "^0.25.0",
     "crypto-js": "^4.1.1",
